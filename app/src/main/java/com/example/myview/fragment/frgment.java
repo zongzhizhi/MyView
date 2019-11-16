@@ -1,5 +1,7 @@
 package com.example.myview.fragment;
 
-public class frgment {
+import android.support.v4.app.Fragment;
+
+public class frgment extends Fragment {
     private static final String f = "abc";
 }
