@@ -1,4 +1,4 @@
-package com.example.myview;
+package com.example.myview.view;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
@@ -12,6 +12,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+import com.example.myview.R;
 import com.example.myview.utils.Utils;
 
 public class DrawOverlayDemoView extends View {
