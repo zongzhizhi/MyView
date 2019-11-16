@@ -1,4 +1,6 @@
 package com.example.myview.fragment;
 
-public class frgment {
+import android.support.v4.app.FragmentActivity;
+
+public class frgment extends FragmentActivity {
 }
