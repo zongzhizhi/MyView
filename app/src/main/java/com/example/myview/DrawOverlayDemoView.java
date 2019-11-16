@@ -12,6 +12,8 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+import com.example.myview.utils.Utils;
+
 public class DrawOverlayDemoView extends View {
 
     private float leftStartAngle = -225;
